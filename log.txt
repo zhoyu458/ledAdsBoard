@@ -1,0 +1,115 @@
+ server on port 80
+2023-03-13 20:02:22 [debug    / 147kB]   - connecting
+2021-01-01 00:00:03 [debug    / 154kB]   - connecting
+2021-01-01 00:00:04 [debug    / 152kB]   - connecting
+2023-03-13 20:02:39 [debug    / 151kB]   - connecting
+2023-03-13 20:02:40 [debug    / 150kB]   - connecting
+2023-03-13 20:04:02 [debug    / 153kB]   - connecting
+2023-03-13 20:04:06 [debug    / 152kB]   - connecting
+2023-03-13 20:04:09 [info     / 150kB] server start at 192.168.43.12
+2023-03-13 20:04:09 [info     / 147kB] > starting web server on port 80
+2023-03-13 20:04:28 [debug    / 136kB] > parsed template: index.html (took 6 ms)
+2023-03-13 20:04:28 [info     / 134kB] > GET / (200 OK) [112ms]
+2023-03-13 20:04:28 [info     / 128kB] > GET /favicon.ico (404 Not Found) [261ms]
+2023-03-13 20:04:51 [debug    / 143kB]   - got ip address
+2023-03-13 20:04:51 [info     / 141kB] server start at 192.168.43.12
+2023-03-13 20:04:51 [info     / 138kB] > starting web server on port 80
+2023-03-13 20:06:44 [debug    / 148kB]   - connecting
+2023-03-13 20:06:45 [debug    / 146kB]   - connecting
+2023-03-13 20:07:13 [debug    / 148kB]   - connecting
+2023-03-13 20:07:16 [debug    / 146kB]   - connecting
+2023-03-13 20:07:18 [info     / 144kB] server start at 192.168.43.12
+2023-03-13 20:07:18 [info     / 142kB] > starting web server on port 80
+2023-03-13 20:07:22 [debug    / 149kB] > parsed template: index.html (took 5 ms)
+2023-03-13 20:07:22 [info     / 147kB] > GET / (200 OK) [119ms]
+2023-03-13 20:07:25 [info     / 137kB] > POST / (200 OK) [1831ms]
+2023-03-13 20:08:25 [debug    / 149kB]   - got ip address
+2023-03-13 20:08:25 [info     / 147kB] server start at 192.168.43.12
+2023-03-13 20:08:25 [info     / 145kB] > starting web server on port 80
+2023-03-13 20:08:30 [info     / 133kB] > POST / (200 OK) [52ms]
+2023-03-13 20:08:32 [debug    / 124kB] > parsed template: index.html (took 7 ms)
+2023-03-13 20:08:32 [info     / 122kB] > GET / (200 OK) [1596ms]
+2023-03-13 20:08:36 [info     / 142kB] > POST / (200 OK) [4758ms]
+2023-03-13 20:09:33 [debug    / 142kB]   - got ip address
+2023-03-13 20:09:34 [info     / 149kB] server start at 192.168.43.12
+2023-03-13 20:09:34 [info     / 147kB] > starting web server on port 80
+2023-03-13 20:09:37 [debug    / 136kB] > parsed template: index.html (took 7 ms)
+2023-03-13 20:09:37 [info     / 134kB] > GET / (200 OK) [438ms]
+2023-03-13 20:09:41 [info     / 124kB] > POST / (200 OK) [4127ms]
+2023-03-13 20:10:58 [debug    / 145kB]   - got ip address
+2023-03-13 20:10:59 [info     / 143kB] server start at 192.168.43.12
+2023-03-13 20:10:59 [info     / 141kB] > starting web server on port 80
+2023-03-13 20:11:37 [debug    / 143kB]   - got ip address
+2023-03-13 20:11:37 [info     / 141kB] server start at 192.168.43.12
+2023-03-13 20:11:37 [info     / 138kB] > starting web server on port 80
+2023-03-13 20:12:01 [debug    / 149kB]   - got ip address
+2023-03-13 20:12:01 [info     / 147kB] server start at 192.168.43.12
+2023-03-13 20:12:01 [info     / 145kB] > starting web server on port 80
+2023-03-13 20:12:05 [info     / 133kB] > POST / (200 OK) [99ms]
+2023-03-13 20:12:08 [info     / 124kB] > POST / (200 OK) [3255ms]
+2023-03-13 20:12:11 [debug    / 115kB] > parsed template: index.html (took 31 ms)
+2023-03-13 20:12:11 [info     / 113kB] > GET / (200 OK) [2521ms]
+2023-03-13 20:12:46 [debug    / 143kB]   - got ip address
+2023-03-13 20:12:46 [info     / 141kB] server start at 192.168.43.12
+2023-03-13 20:12:46 [info     / 138kB] > starting web server on port 80
+2023-03-13 20:12:55 [info     / 140kB] > POST / (200 OK) [76ms]
+2023-03-13 20:13:03 [info     / 131kB] > POST / (200 OK) [8439ms]
+2023-03-13 20:13:09 [debug    / 121kB] > parsed template: index.html (took 7 ms)
+2023-03-13 20:13:09 [info     / 119kB] > GET / (200 OK) [5876ms]
+2023-03-13 20:13:21 [info     / 110kB] > POST / (200 OK) [11929ms]
+2023-03-13 20:14:20 [debug    / 143kB]   - got ip address
+2023-03-13 20:14:20 [info     / 141kB] server start at 192.168.43.12
+2023-03-13 20:14:20 [info     / 138kB] > starting web server on port 80
+2023-03-13 20:14:23 [debug    / 140kB] > parsed template: index.html (took 7 ms)
+2023-03-13 20:14:23 [info     / 138kB] > GET / (200 OK) [239ms]
+2023-03-13 20:14:48 [info     / 129kB] > POST / (200 OK) [25242ms]
+2023-03-13 20:15:50 [error    / 126kB] need more than 0 values to unpack
+2023-03-13 20:19:58 [debug    / 145kB]   - got ip address
+2023-03-13 20:19:58 [info     / 143kB] server start at 192.168.43.12
+2023-03-13 20:19:58 [info     / 141kB] > starting web server on port 80
+2023-03-13 20:20:05 [debug    / 128kB] > parsed template: index.html (took 7 ms)
+2023-03-13 20:20:05 [info     / 126kB] > GET / (200 OK) [153ms]
+2023-03-13 20:20:11 [info     / 138kB] > POST / (200 OK) [6441ms]
+2023-03-13 20:20:59 [error    / 136kB] need more than 0 values to unpack
+2023-03-13 20:21:09 [debug    / 127kB] > parsed template: index.html (took 7 ms)
+2023-03-13 20:21:09 [info     / 125kB] > GET / (200 OK) [323ms]
+2023-03-13 20:21:57 [debug    / 147kB]   - got ip address
+2023-03-13 20:21:57 [info     / 145kB] server start at 192.168.43.12
+2023-03-13 20:21:57 [info     / 142kB] > starting web server on port 80
+2023-03-13 20:22:00 [debug    / 130kB] > parsed template: index.html (took 6 ms)
+2023-03-13 20:22:01 [info     / 128kB] > GET / (200 OK) [180ms]
+2023-03-13 20:22:01 [info     / 122kB] > GET /favicon.ico (404 Not Found) [274ms]
+2023-03-13 20:22:20 [info     / 135kB] > POST / (200 OK) [362ms]
+2023-03-13 20:23:00 [debug    / 125kB] > parsed template: index.html (took 31 ms)
+2023-03-13 20:23:00 [info     / 123kB] > GET / (200 OK) [40032ms]
+2023-03-13 20:24:39 [info     / 113kB] > POST / (200 OK) [52ms]
+2023-03-13 20:26:45 [debug    / 140kB] > parsed template: index.html (took 21 ms)
+2023-03-13 20:26:45 [info     / 138kB] > GET / (200 OK) [336ms]
+2023-03-13 20:27:06 [info     / 128kB] > POST / (200 OK) [21354ms]
+2023-03-13 20:34:26 [debug    / 115kB] > parsed template: index.html (took 7 ms)
+2023-03-13 20:34:26 [info     / 113kB] > GET / (200 OK) [438ms]
+2023-03-13 20:34:36 [info     / 138kB] > POST / (200 OK) [9489ms]
+2023-03-13 20:35:10 [debug    / 129kB] > parsed template: index.html (took 8 ms)
+2023-03-13 20:35:10 [info     / 127kB] > GET / (200 OK) [34358ms]
+2023-03-13 20:35:39 [info     / 117kB] > POST / (200 OK) [28713ms]
+2023-03-13 20:36:20 [error    / 115kB] need more than 0 values to unpack
+2023-03-13 20:36:34 [debug    / 105kB] > parsed template: index.html (took 7 ms)
+2023-03-13 20:36:35 [info     / 136kB] > GET / (200 OK) [489ms]
+2023-03-13 20:37:02 [info     / 126kB] > POST / (200 OK) [27718ms]
+2023-03-13 20:38:16 [debug    / 116kB] > parsed template: index.html (took 7 ms)
+2023-03-13 20:38:17 [info     / 114kB] > GET / (200 OK) [303ms]
+2021-01-01 00:00:03 [debug    / 148kB]   - connecting
+2021-01-01 00:00:06 [debug    / 146kB]   - connecting
+2021-01-01 00:00:06 [info     / 144kB] server start at 192.168.43.12
+2021-01-01 00:00:06 [info     / 142kB] > starting web server on port 80
+2021-01-01 00:00:07 [debug    / 130kB] > parsed template: index.html (took 8 ms)
+2021-01-01 00:00:07 [info     / 128kB] > GET / (200 OK) [480ms]
+2021-01-01 00:00:17 [info     / 145kB] > POST / (200 OK) [10324ms]
+2021-01-01 00:00:22 [error    / 129kB] need more than 0 values to unpack
+2021-01-01 00:03:57 [debug    / 118kB] > parsed template: index.html (took 8 ms)
+2021-01-01 00:03:57 [info     / 116kB] > GET / (200 OK) [258ms]
+2021-01-01 00:04:04 [info     / 141kB] > POST / (200 OK) [7654ms]
+2021-01-01 00:00:03 [debug    / 148kB]   - connecting
+2021-01-01 00:00:04 [debug    / 146kB]   - connecting
+2021-01-01 00:00:33 [info     / 144kB] server start at None
+2021-01-01 00:00:33 [info     / 142kB] > starting web server on port 80
